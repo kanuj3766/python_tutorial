@@ -72,6 +72,13 @@
 <b>Source file(.py file) -> JIT Comiler(Just in time ) -> Byte code -> Operating System</b>
 
 
+<h1>How to run python in cmd</h1>
+<b>command prompt</b> <br>
+
+c:\Document\cd\<-press enter <br>
+c:\cd filename     <br>
+c:\filename\py first.py <br>
+
 
 <h1>IMPORTANT NOTES</h1>
 1. Python is plateform independent.<br>
