@@ -69,6 +69,8 @@
 
 <h1>How to execute python file</h1>
 
+<b>Source file(.py file) -> JIT Comiler(Just in time ) -> Byte code -> Operating System</b>
+
 
 
 <h1>IMPORTANT NOTES</h1>
