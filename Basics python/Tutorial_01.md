@@ -49,7 +49,7 @@
 
 
 <h1>Limitation of python</h1>
-1.For Mobile application python is not suitable
+1.For Mobile application python is not suitable.<br>
 2.Performance wise python is <b>slow </b>because it is interperter language
 <h1>Flavor of python  </h1>
 <li>1. Cpython - For C application</li>
