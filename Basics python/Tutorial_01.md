@@ -29,3 +29,24 @@
 <li>Data science</li>
 <li>Artificial Intelligence</li>
 <li>Automation</li>
+
+<h1>Features of python</h1>
+<li>Simple and easy to learn </li>
+<li> Freeware and open source</li>
+<li>High level language</li>
+<li>Platform Independed(write ones read anywhere)</li>
+<li>Function and OOPS Language</li>
+<li>Expandable language </li>
+<li>Portable</li>
+<li>Interpreted</li>
+<li>Embadded</li>
+<li>Rich library</li>
+
+<h1>History of Python</h1>
+1989 - Bita version (trail version)
+1991 - offcial version
+<b>Develop by Guido van Rossum</b>
+
+
+<h1>Limitation of python</h1>
+
