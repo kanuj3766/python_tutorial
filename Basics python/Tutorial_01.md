@@ -25,10 +25,17 @@
 <li>4. web programming </li>
 
 <h1>Application</h1>
-<li>1. Web Development</li>
+<li>Web Development</li>
 <li>Data science</li>
 <li>Artificial Intelligence</li>
 <li>Automation</li>
+<li>Desktop application</li>
+<li>Software application</li>
+<li>Education </li>
+<li>Database Access </li>
+<li>Network Programming </li>
+<li>Game Development </li>
+<li>3D Graphic</li>
 
 <h1>Features of python</h1>
 <li>Simple and easy to learn </li>
@@ -59,6 +66,10 @@
 <li>5. Anaconda python - For Bigdata application</li>
 <li>6. Stack python - Multithread</li>
 <li>7. PyPy - Python for Python</li>
+
+<h1>How to execute python file</h1>
+
+
 
 <h1>IMPORTANT NOTES</h1>
 1. Python is plateform independent.<br>
