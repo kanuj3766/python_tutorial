@@ -61,8 +61,8 @@
 <li>7. PyPy - Python for Python</li>
 
 <h1>IMPORTANT NOTES</h1>
-1. Python is plateform independent.
-2. Python never create a .exe file.
+1. Python is plateform independent.<br>
+2. Python never create a .exe file.<br>
 Those program create  .exe which is never be plateform independent.
 
 (jo programming language .exe file banata hai vo plateform  independent nahi ho sakta  because .exe file ko run karne ke liye DLL(Dynamic link library) File ki jarurat padati hai jo operating system provide karta hai)
